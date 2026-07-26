@@ -29,10 +29,7 @@ My work focuses on developing practical engineering solutions that combine hardw
   - Reinforcement Learning
 
 -  **Embedded Systems**
-  - STM32
-  - ESP32
   - Embedded C/C++
-  - CAN Bus
   - IoT
 
 ---
