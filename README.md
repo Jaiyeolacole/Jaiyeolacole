@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Jaiyeola Emmanuel 
 
-<!--
-**Jaiyeolacole/JaiyeolaCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical & Electronics Engineering Student | Embedded Systems | E-Mobility | Energy Infrastructure | AI
 
-Here are some ideas to get you started:
+I build intelligent embedded systems at the intersection of **electric mobility, energy infrastructure, and artificial intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on developing practical engineering solutions that combine hardware, software, and intelligent algorithms.
+
+---
+
+##  Areas of Focus
+
+-  **Electric Mobility**
+  - EV Charging Infrastructure
+  - EVSE
+  - Battery Management Systems
+  - V2G & Smart Charging
+
+-  **Energy Infrastructure**
+  - Energy Monitoring
+  - Renewable Energy Systems
+  - Energy Management
+  - Grid Resilience
+
+-  **AI & Edge Intelligence**
+  - Battery SOH/RUL Prediction
+  - Predictive Maintenance
+  - TinyML & Edge AI
+  - Reinforcement Learning
+
+-  **Embedded Systems**
+  - STM32
+  - ESP32
+  - Embedded C/C++
+  - CAN Bus
+  - IoT
+
+---
+
+##  Technologies
+
+**Languages**
+
+`C` `C++` `Python`
+
+**Embedded**
+
+`STM32` `ESP32` `Arduino`
+
+**AI / ML**
+
+`TensorFlow` `TinyML` `Machine Learning`
+
+**Engineering & Simulation**
+
+`MATLAB` `Simulink` `Proteus` `KiCad`
+
+---
+
+## Current Focus
+
+I'm currently focused on building deeper expertise in:
+
+- Intelligent EV charging systems
+- Battery management and battery health prediction
+- AI-enabled energy management
+- Vehicle-to-Grid (V2G) systems
+- Embedded AI
+- Grid-resilient energy infrastructure
+
+---
+
+##  Featured Projects
+
+ **Electric Mobility**  
+ **Battery & BMS**  
+ **Energy Infrastructure**  
+ **AI & Embedded Intelligence**
+
+---
+
+##  Connect With Me
+
+[LinkedIn](in/jaiyeola-emmanuel-26782025b) • [Email](reachmeatjoe@gmail.com || jaiyeolae509@gmail.com)
