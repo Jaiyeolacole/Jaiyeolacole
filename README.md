@@ -23,10 +23,8 @@ My work focuses on developing practical engineering solutions that combine hardw
   - Grid Resilience
 
 -  **AI & Edge Intelligence**
-  - Battery SOH/RUL Prediction
-  - Predictive Maintenance
   - TinyML & Edge AI
-  - Reinforcement Learning
+
 
 -  **Embedded Systems**
   - Embedded C/C++
@@ -42,11 +40,8 @@ My work focuses on developing practical engineering solutions that combine hardw
 
 **Embedded**
 
-`STM32` `ESP32` `Arduino`
+`STM32` `ESP32` `NXP` `RaspberryPI` 
 
-**AI / ML**
-
-`TensorFlow` `TinyML` `Machine Learning`
 
 **Engineering & Simulation**
 
