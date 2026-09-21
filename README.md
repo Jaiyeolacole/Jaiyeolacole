@@ -12,19 +12,15 @@ My work focuses on developing practical engineering solutions that combine hardw
 
 -  **Electric Mobility**
   - EV Charging Infrastructure
-  - EVSE
   - Battery Management Systems
   - V2G & Smart Charging
 
 -  **Energy Infrastructure**
   - Energy Monitoring
   - Renewable Energy Systems
-  - Energy Management
-  - Grid Resilience
 
 -  **AI & Edge Intelligence**
   - TinyML & Edge AI
-
 
 -  **Embedded Systems**
   - Embedded C/C++
@@ -45,25 +41,19 @@ My work focuses on developing practical engineering solutions that combine hardw
 
 **Engineering & Simulation**
 
-`MATLAB` `Simulink` `Proteus` `KiCad`
+`MATLAB` `Simulink` `Proteus` `KiCad` `Qucs`
 
 ---
 
 ## Current Focus
-
 I'm currently focused on building deeper expertise in:
-
 - Intelligent EV charging systems
 - Battery management and battery health prediction
 - AI-enabled energy management
 - Vehicle-to-Grid (V2G) systems
-- Embedded AI
-- Grid-resilient energy infrastructure
-
 ---
 
 ##  Featured Projects
-
  **Electric Mobility**  
  **Battery & BMS**  
  **Energy Infrastructure**  
@@ -73,4 +63,4 @@ I'm currently focused on building deeper expertise in:
 
 ##  Connect With Me
 
-[LinkedIn](in/jaiyeola-emmanuel-26782025b) • [Email](reachmeatjoe@gmail.com || jaiyeolae509@gmail.com)
+[LinkedIn](in/jaiyeola-emmanuel-26782025b) • [Email](reachmeatjoe@gmail.com)
